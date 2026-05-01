@@ -1,0 +1,27 @@
+﻿[2026-05-01 14:43:25] --- STARTAR SÃ„KERHETSSKANNING ---
+[2026-05-01 14:43:25] Skannar efter world-writable filer i: ../..
+[2026-05-01 14:43:25] RESULTAT: Inga kritiska sÃ¥rbarheter hittades (Inga world-writable filer).
+[2026-05-01 14:43:25] --- SKANNING SLUTFÃ–RD ---
+[2026-05-01 14:43:25] FullstÃ¤ndig rapport finns i: ../../reports/logs/bash_security_report.log
+--- START: 05/01/2026 15:39:35 ---
+--- SLUT ---
+--- START: 05/01/2026 15:40:13 ---
+--- SLUT ---
+--- START: 05/01/2026 15:42:39 ---
+Hittade admin: USER\Administratör
+Hittade admin: USER\jaaro
+--- SLUT ---
+--- START: 05/01/2026 15:43:54 ---
+Hittade admin: USER\Administratör
+Hittade admin: USER\jaaro
+--- SLUT ---
+--- START: 05/01/2026 15:45:39 ---
+Hittade admin: USER\Administratör
+Hittade admin: USER\jaaro
+--- SLUT ---
+--- START: 2026-05-01 15:48:47 ---
+Datornamn: user
+Lokal IP-adress: 169.254.243.18
+Status: NÃ¤tverksgrÃ¤nssnitt OK
+--- SLUT ---
+

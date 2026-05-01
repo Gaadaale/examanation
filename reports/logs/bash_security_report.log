@@ -1,0 +1,5 @@
+[2026-05-01 14:43:25] --- STARTAR SÄKERHETSSKANNING ---
+[2026-05-01 14:43:25] Skannar efter world-writable filer i: ../..
+[2026-05-01 14:43:25] RESULTAT: Inga kritiska sårbarheter hittades (Inga world-writable filer).
+[2026-05-01 14:43:25] --- SKANNING SLUTFÖRD ---
+[2026-05-01 14:43:25] Fullständig rapport finns i: ../../reports/logs/bash_security_report.log
